@@ -6,7 +6,7 @@ edit: true
 
 ## Report
 
-* **Full Report** - [Text version](/us-enron-report/pages/2002-enron-report) [Original PDF](http://www.hsgac.senate.gov/download/report-the-role-of-the-board-of-directors-in-enrons-collapse)
+* **Full Report** - [Text version](/enron-report/pages/2002-enron-report) [Original PDF](http://www.hsgac.senate.gov/download/report-the-role-of-the-board-of-directors-in-enrons-collapse)
 
 ## Summary
 
