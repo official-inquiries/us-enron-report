@@ -1,4 +1,7 @@
-Subcommittee Investigation
+* TOC
+{:toc}
+
+# Subcommittee Investigation
 On December 2, 2001, Enron Corporation, then the seventh larg-
 est publicly traded corporation in the United States, declared bank-
 ruptcy. That bankruptcy sent shock waves throughout the country, 
@@ -82,7 +85,8 @@ Governance, University of Delaware, and a former member
 of the Board of Sunbeam Corporation; and 
 Michael H. Sutton is the former Chief Accountant of the 
 Securities and Exchange Commission from 1995 to 1998. 
-SUBCOMMITI'EE FINDINGS 
+
+# Subcommittee Findings
 Based upon the evidence before it, including over one million 
 pages of subpoenaed documents, interviews of 13 EnrOll Board 
 members, and the Subcommittee hearing on May 7, 2002, the U.S. 
@@ -92,7 +96,10 @@ time of the May 7 hearing, resigned from the Enron Board on June 6, 2002.
 Senate Permanent Subcommittee on Investigations makes the fol-
 lowing findings with respect to the role of the Enron Board of Di-
 rectors in Enron's collapse and bankruptcy_ 
-(1) Fiduciary Failure_ The Enron Board of Directors 
+
+## Fiduciary Failure
+
+The Enron Board of Directors 
 failed to safeguard Enron shareholders and contributed to 
 the collapse of the seventh largest public company in the 
 United States, by allowing Enron to engage in high risk 
@@ -103,10 +110,16 @@ ous indications of questionable practices by EnrOll manage-
 ment over several years, but chose to ignore them to the 
 detriment of EnrOll shareholders, employees and business 
 associates. . 
-(2) High Risk Accounting_ The Enron Board of Direc-
+
+## High Risk Accounting
+
+The Enron Board of Direc-
 tors knowingly allowed Enron to engage in high risk ac-
 counting practices. . 
-(3) InJlPp>:opriate Conflicts of Interest_ Despite clear 
+
+## Inappropriate Conflicts of Interest
+
+Despite clear 
 conflicts of interest, the Enron Board of Directors approved 
 an unprecedented arrangement allowing Enron's Chief Fi-
 nancial Officer to establish and operate the I.JM private 
@@ -115,13 +128,18 @@ profited at Enron's expense. The Board exercised inad·
 equa.te oversight of LJM transaction and compensation 
 controls and failed to protect Enron shareholders from un-
 fair dealing. 
-(4) Extensive Undisclosed Off-The-Books Activity. 
+
+## Extensive Undisclosed Off-The-Books Activity
+ 
 The Enron Board of Directors knowingly allowed Enron to 
 conduct billions of dollars in off-the-books activity to make 
 its financial condition appear better than it was and failed 
 to ensure adequate public disclosure of material off-the-
 books liabilities that contributed to Enron's collapse. 
-(5) Excessive Compensation. The Enron Board of Di-
+
+## Excessive Compensation
+
+The Enron Board of Di-
 rectors approved excessive compensation for company ex-
 ecutives, failed to monitor the cumulative cash drain 
 caused by Enron's 2000 annual bonus and performance 
@@ -129,7 +147,10 @@ unit plans, and failed to monitor or halt abuse by Board
 Chairman and Chief Executive Officer Kenneth Lay of a 
 company-financed, multi-million dollar, personal credit 
 line. . 
-(6) Lack of Independence_ The independence of the 
+
+## Lack of Independence
+
+The independence of the 
 Enron Board of Directors was compromised by financial 
 ties between the company and certain Board members. 
 The Board also failed to ensure the independence of the 
@@ -137,11 +158,16 @@ company's auditor, allowing Andersen to provide internal
 audit and consulting services while serving as Enron's out-
 side auditor . 
 4 
-SUBCOMMITTEE RECOMMENDATIONS 
+
+# Subcommittee Recommendations
+
 Based upon the evidence before it and the findings made in this 
 report, the U.S. Senate Permanent Subcommittee on Investigations 
 makes the following recommendations: 
-(1) Strengthening Oversight. Directors of publicly 
+
+## Strengthening Oversight
+
+Directors of publicly 
 traded companies sho:uld take steps to: 
 (a) prohibit accounting practices and transactions that 
 put the company at high risk of non-compliance with 
@@ -169,7 +195,10 @@ company stock price for personal gain; and
 providing internal auditing or consulting servij:es to the 
 company and from auditing its own work for .the com-
 pany. 
-(2) Strengthening Independence. The Securities and 
+
+## Strengthening Independence
+
+The Securities and 
 Exchange Commission and the self-regulatory organiza-
 tions, including the national stock exchanges, should: 
 (a) str.engthen requirements for director independence 
@@ -191,8 +220,12 @@ including by prohibiting the company's outside auditor
 from simultaneously providing the company with inter-
 nal auditing or consulting services and from auditing its 
 own work for the company. 
-BACKGROUND 
-Fiduciary Obligations of Boards of Directors. In the United 
+
+# Background
+
+## Fiduciary Obligations of Boards of Directors
+
+ In the United 
 States, the Board of Directors sits at the apex of a company's gov-
 erning structure. A typical Board's duties include reviewing the 
 company's overall business strategy; selecting and compensating 
@@ -282,7 +315,10 @@ mands tiroe and attention." The report urges boards of directors to
 ognizes that the board must perform active and independent over-
 sight to be, as the law requires, a fiduciary for those who invest 
 in the corporation." 
-Enron Corporation. At the time of Enron's collapse in Decem-
+
+## Enron Corporation
+
+At the time of Enron's collapse in Decem-
 ber 2001, Enron Corporation was listed as the seventh largest com-
 pany in the United States, with over $100 billion in gross revenues 
 and more than 20,000 employees worldwide. It had received wide-
@@ -372,7 +408,10 @@ that few companies outside of investment banks use them as exten-
 sively as Enron. At Enron, they became dominant; at its peak, the 
 company apparently had between $15 and $20 billion involved in 
 hundreds of structured finance transactions. 
-Enron Board. In 2001, Enron's Board of Directors had 15 mem-
+
+## Enron Board
+
+In 2001, Enron's Board of Directors had 15 mem
 bers, several of whom had 20 years or more experience on the 
 Board of Enron or its predecessor companies. Many of Enron's Di-
 rectors served on the boards of other companies as well. At the 
@@ -522,8 +561,12 @@ stock, phantom stock units, and stock options.· The total cash and
 equity compensation of Enron Board members in 2000 was valued 
 by Enron at about $350,000 or more than twice the national aver-
 age for Board compensation at a U.S. publicly traded corporation.9 
-FACTUAL BASIS FOR FINDINGS 
-Finding (1): The Enron Board· of Directors failed to 
+
+# Factual basis for findings
+
+## Finding (1): Fiduciary failure
+
+The Enron Board· of Directors failed to 
 safeguard Enron shareholders and contributed to 
 the collapse of the seventh largest. public company 
 in the United States, by allowing Enron to engage in 
@@ -715,7 +758,10 @@ personal responsibility for Enron's collapse is a telling indicator of
 the Board's failure to recognize its fiduciary obligations to set the 
 company's overall strategic direction, oversee management, and en-
 sure responsible financial reporting. 
-Finding (2): The Enron Board of Directors know-
+
+## Finding (2): High Risk Accounting
+
+The Enron Board of Directors know-
 ingly allowed Enron to engage in high risk account-
 ing practices. 
 One of the most disturbing developments in the Subcommittee's 
@@ -741,7 +787,10 @@ pany's outside auditor "is a giant red flag" that should have caused
 Board members to ask "an awful lot of questions" and might have 
 necessitated bringing in a third party to evaluate the company's ac-
 counting prllctices.25 
-Andersen Brief"Ings on High Risk Areas. The charter of the 
+
+### Andersen Briefings on High Risk Areas
+
+The charter of the 
 Enron Audit Committee explicitly requires the Committee to en-
 sure the independence of the company's auditors, assess Enron's in-
 ternal controls and the quality of its financial reporting, and review 
@@ -1004,8 +1053,11 @@ that he had believed Andersen would stand by their accounting ad-
 vice and was shocked when, in 2001, Andersen began to reverse 
 course and repudiate the accounting methodologies and judgments 
 it had earlier provided. 
-Other Evidence of Board Awareness of Enron's High Risk 
-Accounting. In addition to the Audit Committee's receipt of ex-
+
+
+### Other Evidence of Board Awareness of Enron's High Risk Accounting
+
+In addition to the Audit Committee's receipt of ex-
 plicit briefmgs on Enron's high risk accounting practices, many 
 other documents demonstrate that the Board knowingly allowed 
 Enron to use high risk accounting techniques, questionable valu-
@@ -1173,7 +1225,10 @@ were undertaken to produce earnings or cash flow on Enron's financial statements
 23 
 fiduciary duty to ensure the company engaged in responsible finan-
 cial reporting. 
-Finding (3): Despite clear conflicts of interest, the 
+
+## Finding (3): Inappropriate conflicts of interest
+
+Despite clear conflicts of interest, the 
 Enron Board of Directors approved an unprece-
 dented arrangement allowing Enron's Chief Finan-
 cial Officer to establish and operate the LJM private 
@@ -1249,7 +1304,10 @@ ready communicated and it has been agreed to by Andy
 that CEO, General [Counsel], and Board discussion and 
 approval will be a requirement, on our part, for acceptance 
 of a venture similar to what we have been discussing." 61 
-Board Approval of LJM With Few Questions Asked_ Board 
+
+### Board Approval of LJM With Few Questions Asked
+
+Board 
 approval proved easy to obtain. The first LIM presentation made 
 to the Board took place on June 28, 1999, at a special Board meet-
 ing held by teleconference.62 The Board was told that LIM1 would 
@@ -1446,7 +1504,10 @@ members refused to acknowledge any lapse in judgment. Most, in
 fact, defended the decision to authorize the LJM partnerships and 
 declared that they would support a similar arrangement at another 
 company if appropriate approvals and controls were provided.76 
-Flawed Controls to Mitigate LJM Conflicts. Most of the 
+
+### Flawed Controls to Mitigate LJM Conflicts
+
+Most of the 
 interviewed Board members said they had not been troubled by the 
 conflicts of interest posed by the LJM partnerships due to the con-
 trols adopted to mitigate the conflicts. These controls were in-
@@ -1547,8 +1608,10 @@ The Powers Report concludes that the LJM controls "were not ef-
 fectively implemented by Management, and the conflict [of interest] 
 was so fundamental and pervasive that it overwhelmed the controls 
 as the relationship progressed." 88 
-Inadequate Board Oversight of LJM Transactions With 
-Enron. The Enron Board failed to uncover the deficiencies in the 
+
+### Inadequate Board Oversight of LJM Transactions With Enron 
+
+The Enron Board failed to uncover the deficiencies in the 
 LJM controls or to make up for them through its own oversight ef-
 forts. 
 S3 Powers IWport at 166. 
@@ -1722,8 +1785,10 @@ a similar set of conflicts of interest concerns, lOI Mr. Winokur testi-
 fied at the hearing that, had he known of Mr. Kopper's role, he 
 "would have wanted to continue the reviews" to ensure LJM's deal-
 ings with Enron were fair. 102 
-Inadequate Board Oversight of Fastow's LJM Compensa-
-tion. The Board's role in overseeing Mr. Fastow's LJM compensa-
+
+### Inadequate Board Oversight of Fastow's LJM Compensation
+
+The Board's role in overseeing Mr. Fastow's LJM compensa-
 tion was even more lax. For the first year, the Board apparently 
 relied on Mr. Skilling to review Mr. Fastow's LJM~related income 
 and asked no questions. In October 2000, after LJM1 had been op-
@@ -1846,7 +1911,10 @@ tion that they first learned of the Southampton partnershlp, whlch
 Mr. Fastow had established with five other Enron employees to in-
 vest in LJMl and enabled these additional Enron employees to 
 benefit financially at Enron's expense. 
-LJM Profits at the Expense of Enron. Records indicate that 
+
+### LJM Profits at the Expense of Enron. 
+
+Records indicate that 
 WM was a very profitable venture. Its 2000 annual partnershlp 
 meeting report boasts of 23 investments with Enron and a 69 per-
 cent rate of return in its first year of operation, which Enron Board 
@@ -1936,7 +2004,10 @@ Fastow to form, manage and profit from the LJM partnerships
 rested with the Board itself. The Board cannot shift the responsi-
 bility for'· that decision to any other participant in the Enron trag-
 edy. 
-finding (4): The Enron Board of Directors know-
+
+## Finding (4): Extensive Undisclosed Off-The-Books Activity
+
+The Enron Board of Directors know-
 ingly allowed Enron to conduct billions of dollars in 
 off-the-books activity to make its financial condition 
 appear better than it was, and failed to ensure ade-
@@ -1965,7 +2036,10 @@ fied that he "had never seen that amount, proportion of a com-
 pany's assets on off-balance-sheet. Sometimes it is appropriate to 
 have some items off-balance-sheet . . . but never to that ex-
 tent." 118 
-Whitewing. The Board's awareness and approval of Enron's off-
+
+### Whitewing
+
+The Board's awareness and approval of Enron's off-
 the-books corporate strategy is illustrated by its years-long involve-
 ment in the establishment, financing, and use of Whitewing. 
 Whitewing was established by· Enron, run by EnrOD personnel, 
@@ -2104,7 +2178,10 @@ personnel misled or misinformed the Board about Whitewing in
 any way. Rather, the evidence indicates that the Board made its 
 Whitewing decisions with (ull information and realization of 
 Enron's extensive off-the-books dealings with this entity.'" 
-LJM Partnerships. The Board also knowingly allowed Enron to 
+
+### LJM Partnerships 
+
+The Board also knowingly allowed Enron to 
 establish the WM partnerships, as explained earlier. Like White-
 wing, WM1 and LJM2 were explicitly established and run by 
 Enron personnel. Unlike Whitewing, the LJM partnershil;ls were 
@@ -2178,7 +2255,10 @@ showing that $27 billion out of $60 billion of Enron's assets, or al-
 most 50 percent, were held off Enron's books in "unconsolidated af-
 filiates." 137 No Board member objected to this corporate strategy or 
 urged Enron to change course. 
-The Raptors. One important example of Enron's undisclosed, 
+
+### The Raptors 
+
+One important example of Enron's undisclosed, 
 off-the-books activity that had a dramatic, negative impact on the 
 company is the Raptor transactions. '38 The Enron Board knowingly 
 authorized the Raptor transactions, despite their high risk account-
@@ -2574,7 +2654,10 @@ excuse or explain the Board's approval of the Raptors based upon
 what they did know. It also does not excuse the Board's failure to 
 ensure adequate public disclosure of Enron's ongoing liability for 
 the Raptor transactions. 
-Inadequate Public Disclosure. When asked about Enron's ex-
+
+### Inadequate Public Disclosure 
+
+When asked about Enron's ex-
 tensive off-the-books activity, one of the Board members, Mr. 
 Blake, stated during his interview that transferring assets off a 
 company's books "is not immoral as long as disclosed." But here, 
@@ -2657,7 +2740,10 @@ ing for the third quarter of 2001.
 49 
 and liabilities clearly damaged investor confidence in the company 
 and contributed to its collapse. 
-Finding (5): The Enron Board of Directors approved 
+
+## Finding (5): Excessive Compensation
+
+The Enron Board of Directors approved 
 excessive compensation for company executives
 l failed to monitor the cumulative cash drain cause« 
 by Enron's 2000 annual bonus and performance unit 
@@ -2789,14 +2875,20 @@ their options. One Board member admitted, however, that EnroD
 was a culture driven by compensation. Another said, when asked 
 why Enron executives misled the Board and cheated the company, 
 that he "only can assume they did it for the money." 
-Finding (6): The independence of the Enron Board of 
+
+## Finding (6): Lack of Independence
+
+The independence of the Enron Board of 
 Directors 'was compromised by financial ties be-
 tween the company and certain Board members. The 
 Board also failed to ensure the independence of the 
 company's auditor, allowing Andersen to provide in-
 ternal audit and consulting services while serving as 
 Enron's outside auditor. 
-Board Independence. At the May 7 hearing, the expert wit-
+
+### Board Independence
+
+At the May 7 hearing, the expert wit-
 nesses testified that the independence and objectivity of the Enron 
 Board had been weakened by financial ties between EnroD and cer-
 tain directors. These financial ties, which affected a majority of the 
@@ -2893,7 +2985,10 @@ no real downside. The worst you can lose is the expectancy of great
 riches." 189 All three experts urged companies to reconsider award-
 ing excessive Board compensation and urged them to award com-
 pensation in the form of stock rather than stock options. 
-Auditor Independence. The hearing experts also criticized the 
+
+### Auditor Independence 
+
+The hearing experts also criticized the 
 Enron Board and its Audit Committee for inadequate oversight to 
 ensure the independence and objectivity of Andersen in its role as 
 the company's outside auditor. The Audit Committee formally re-
@@ -2999,7 +3094,9 @@ Enron Audit Committee might have uncovered the ongoing ten-
 sions between the company and its auditor and the many mis-
 givings Andersen expressed internally while going along with 
 Enron's high risk accounting. 
-CONCLUSION 
+
+# Conclusion
+
 Enron's Directors protest that they cannot be held accountable 
 ' for misconduct that was concealed from them. But much that was 
 wrong with Enron was known to the Board,from bigh risk account-
@@ -3070,7 +3167,9 @@ j li' Jj dHii 1 Ht!itinq~!
 ~ 
 ·De.u Mr. lay. 
 57 
-APPENDIX 2 
+
+# Appendix 2
+
 Sherron Watldns' Letter to 
 Board Chairman Kenneth Lay (8/15/01) 
 Has Enran bet;omc: a risky place to work.:' forthost orus .... ho didn ' t g~t r:::~ o\"cr the 1m fe\\ 
