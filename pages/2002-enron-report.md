@@ -8,162 +8,124 @@ edit: true
 {:toc}
 
 # Subcommittee Investigation
-On December 2, 2001, Enron Corporation, then the seventh larg-
-est publicly traded corporation in the United States, declared bank-
-ruptcy. That bankruptcy sent shock waves throughout the country, 
+On December 2, 2001, Enron Corporation, then the seventh largest publicly traded corporation in the United States, declared bankruptcy. That bankruptcy sent shock waves throughout the country, 
 on both Wall Street and Main Street where over half of American 
-families now invest directly or indirectly in the stock market. Thou-
-sands of Enron employees lost not only their jobs but a significant 
-part of their retirement savings; EnroD shareholders saw the value 
+families now invest directly or indirectly in the stock market. Thousands of Enron employees lost not only their jobs but a significant 
+part of their retirement savings; Enron shareholders saw the value 
 of their investments plummet; and hundreds, if not thousands of 
-businesses around the world, were turned into EnrOll creditors in 
-bankruptcy court likely to receive orily pennies on the dollars owed 
-to them. . 
-On January· 2, 2002, Senator Carl Levin, Chairman of the 
-Pennanent Subcommittee on Investigations, and Senator Susan M. 
-Collins, the Ranking Minority Member, announced that the Sub-
-committee would conduct an in-depth investigation into the col-
-lapse of the Enron Corporation. The following month the Sub-
-committee issued over 50 subpoenas to Enron Board members, 
-EnroD officers, the EnroD Corporation, and the. Andersen account-
-ing firm. Over the next few months, additional subpoenas and 
-document requests were directed to other accounting firms and fi-
-nancial institutions. By May 2002, the Subcommittee staff had re-
-viewed over 350 boxes of documents, including the available meet-
-ing minutes, presentations, and attachments for the full Board and 
+businesses around the world, were turned into Enron creditors in 
+bankruptcy court likely to receive only pennies on the dollars owed 
+to them.
+
+On January 2, 2002, Senator Carl Levin, Chairman of the 
+Permanent Subcommittee on Investigations, and Senator Susan M. 
+Collins, the Ranking Minority Member, announced that the Subcommittee would conduct an in-depth investigation into the collapse of the Enron Corporation. The following month the Subcommittee issued over 50 subpoenas to Enron Board members, 
+Enron officers, the Enron Corporation, and the Andersen accounting firm. Over the next few months, additional subpoenas and 
+document requests were directed to other accounting firms and financial institutions. By May 2002, the Subcommittee staff had reviewed over 350 boxes of documents, including the available meeting minutes, presentations, and attachments for the full Board and 
 its Finance and Audit Committees. The Subcommittee staff also 
 spoke with representatives of Enron Corporation and Andersen, as 
 well as numerous financial institutions and experts in corporate 
-gov.emance and accounting. 
+governance and accounting. 
+
 During April 2002, the Subcommittee staff interviewed 13 past 
 and present Enron Board members, none of whom had previously 
-been interviewed by the U.S. Department of Justice, Federal Bu-
-reau of Investigation, or the Securities and Exchange Commission. 
-These lengthy interviews, lasting between 3 and 8 hours, were con-
-ducted with the following Enron Board members: Robert A. Belfer, 
+been interviewed by the U.S. Department of Justice, Federal Bureau of Investigation, or the Securities and Exchange Commission. 
+These lengthy interviews, lasting between 3 and 8 hours, were conducted with the following Enron Board members: Robert A. Belfer, 
 Norman P. Blake, Jr:, Ronnie C. Chan, John H. Duncan, Dr. 
-Wendy L. Gramm, Dr. Robert K Jaedicke, Dr. Charles A. Le-
-Maistre, Dr. John Mendelsohn, Paulo Ferraz Pereira, Frank Sav-
-age, Lord John Wakeham, Charls Walker, and Herbert S.- Winokur, 
-Jr. All Board members appeared voluntarily, and all were rep-
-resented by the same legal counsel. 
-(1) 
-2 
+Wendy L. Gramm, Dr. Robert K Jaedicke, Dr. Charles A. LeMaistre, Dr. John Mendelsohn, Paulo Ferraz Pereira, Frank Savage, Lord John Wakeham, Charls Walker, and Herbert S. Winokur, 
+Jr. All Board members appeared voluntarily, and all were represented by the same legal counsel.
+ 
 On May 7, 2002, the Subcommittee held a hearing on the role 
 and responsibility of the Enron Board of Directors to safeguard 
-shareholder interests and on its role in Enron's collapse and bank-
+shareholder interests and on its role in Enron's collapse and bank
 ruptcy. Two panels of witnesses testified under oath. The first 
-panel consisted of five past and present Enron Board members, in-
+panel consisted of five past and present Enron Board members, in
 cluding the current Board Chairman and the past Chairmen of the 
 key Board Committees. The witnesses were as follows: 
-Norman P. Blake, Jr. (1994-2002), Interim Chairman of 
-the EnrOll Board and former member of the EnrOll Finance 
+
+> Norman P. Blake, Jr. (1994-2002), Interim Chairman of 
+the Enron Board and former member of the Enron Finance 
 and Compensation Committees, has extensive corporate, 
-Board, and investm~nt experience, including past service 
+Board, and investment experience, including past service 
 on the Board of General Electric, and current service as 
-Audit Committee Chairman of the Board of Owens Cor-
-ning; 
-John H. Duncan (1985-2001), former Chairman of the 
+Audit Committee Chairman of the Board of Owens Corning; 
+
+> John H. Duncan (1985-2001), former Chairman of the 
 Enron Executive Committee, has extensive corporate and 
 Board experience, including helping to found and manage 
-Gulf and Western Industries; 
-Herbert S. Winokur, Jr. (1985-2002), current Board mem-
-ber, former 'Chairman of the Finance Committee, and 
+Gulf and Western Industries;
+ 
+> Herbert S. Winokur, Jr. (1985-2002), current Board member, former 'Chairman of the Finance Committee, and 
 former member of the Powers Special Committee, holds 
 two advanced degrees from Harvard University and has 
 extensive corporate, Board, and investment experience; 
-Dr. Robert K. Jaedicke (1985-2001), former Chairman of 
-the Enron Audit and Compliance Committee, is Dean ' 
+
+> Dr. Robert K. Jaedicke (1985-2001), former Chairman of 
+the Enron Audit and Compliance Committee, is Dean 
 Emeritus of the Stanford Business School, and a former 
 accounting professor; and 
-Dr. Charles A. LeMaistre (1985-2001), former Chairman of 
-the EnrOll Compensation Committee, is former President 
-of the M.D. Anderson Cancer Center, a large, well-re-
-speeted, and complex medical facility in Texas.! 
-The second panel consisted of three experts in corporate govern-
-ance and accounting: 
-Robert H. Campbell is former Chairman of the Board and 
+
+> Dr. Charles A. LeMaistre (1985-2001), former Chairman of 
+the Enron Compensation Committee, is former President 
+of the M.D. Anderson Cancer Center, a large, well-respected, and complex medical facility in Texas. 
+
+The second panel consisted of three experts in corporate governance and accounting: 
+
+> Robert H. Campbell is former Chairman of the Board and 
 Chief Executive Officer of Sunoco, Inc., and current Board 
-member at Hershey Fooda, CIGNA, and the Pew Chari-
-table Trusts; 
-Charles M. Elson is Director of the Center for Corporate 
+member at Hershey Foods, CIGNA, and the Pew Charitable Trusts; 
+
+> Charles M. Elson is Director of the Center for Corporate 
 Governance, University of Delaware, and a former member 
 of the Board of Sunbeam Corporation; and 
-Michael H. Sutton is the former Chief Accountant of the 
+
+> Michael H. Sutton is the former Chief Accountant of the 
 Securities and Exchange Commission from 1995 to 1998. 
 
 # Subcommittee Findings
 Based upon the evidence before it, including over one million 
-pages of subpoenaed documents, interviews of 13 EnrOll Board 
-members, and the Subcommittee hearing on May 7, 2002, the U.S. 
-• -two Enron Directors, Mr. Blake and Mr. Winokur, who were members of the Board at the 
-time of the May 7 hearing, resigned from the Enron Board on June 6, 2002. 
-3 
-Senate Permanent Subcommittee on Investigations makes the fol-
-lowing findings with respect to the role of the Enron Board of Di-
-rectors in Enron's collapse and bankruptcy_ 
+pages of subpoenaed documents, interviews of 13 Enron Board 
+members, and the Subcommittee hearing on May 7, 2002, the U.S. Senate Permanent Subcommittee on Investigations makes the following findings with respect to the role of the Enron Board of Directors in Enron's collapse and bankruptcy. 
 
 ## Fiduciary Failure
 
-The Enron Board of Directors 
-failed to safeguard Enron shareholders and contributed to 
-the collapse of the seventh largest public company in the 
-United States, by allowing Enron to engage in high risk 
-accounting, inappropriate conflict of interest transactions, 
-extensive undisclosed ofl'-the-books activities, and exces-
-sive executive compensation. The Board witnessed numer-
-ous indications of questionable practices by EnrOll manage-
-ment over several years, but chose to ignore them to the 
-detriment of EnrOll shareholders, employees and business 
-associates. . 
+The Enron Board of Directors failed to safeguard Enron shareholders and contributed to the collapse of the seventh largest public company in the United States, by allowing Enron to engage in high risk accounting, inappropriate conflict of interest transactions, extensive undisclosed off-the-books activities, and excessive executive compensation. The Board witnessed numerous indications of questionable practices by Enron management over several years, but chose to ignore them to the detriment of Enron shareholders, employees and business associates.
 
 ## High Risk Accounting
 
-The Enron Board of Direc-
-tors knowingly allowed Enron to engage in high risk ac-
-counting practices. . 
+The Enron Board of Directors knowingly allowed Enron to engage in high risk accounting practices. 
 
 ## Inappropriate Conflicts of Interest
 
-Despite clear 
-conflicts of interest, the Enron Board of Directors approved 
-an unprecedented arrangement allowing Enron's Chief Fi-
-nancial Officer to establish and operate the I.JM private 
+Despite clear conflicts of interest, the Enron Board of Directors approved 
+an unprecedented arrangement allowing Enron's Chief Financial Officer to establish and operate the LJM private 
 equity funds which transacted business with Enron and 
-profited at Enron's expense. The Board exercised inad· 
-equa.te oversight of LJM transaction and compensation 
-controls and failed to protect Enron shareholders from un-
-fair dealing. 
+profited at Enron's expense. The Board exercised inadequate oversight of LJM transaction and compensation 
+controls and failed to protect Enron shareholders from unfair dealing. 
 
 ## Extensive Undisclosed Off-The-Books Activity
  
 The Enron Board of Directors knowingly allowed Enron to 
 conduct billions of dollars in off-the-books activity to make 
 its financial condition appear better than it was and failed 
-to ensure adequate public disclosure of material off-the-
-books liabilities that contributed to Enron's collapse. 
+to ensure adequate public disclosure of material off-the-books liabilities that contributed to Enron's collapse. 
 
 ## Excessive Compensation
 
-The Enron Board of Di-
-rectors approved excessive compensation for company ex-
-ecutives, failed to monitor the cumulative cash drain 
+The Enron Board of Directors approved excessive compensation for company executives, failed to monitor the cumulative cash drain 
 caused by Enron's 2000 annual bonus and performance 
 unit plans, and failed to monitor or halt abuse by Board 
 Chairman and Chief Executive Officer Kenneth Lay of a 
 company-financed, multi-million dollar, personal credit 
-line. . 
+line.
 
 ## Lack of Independence
 
-The independence of the 
-Enron Board of Directors was compromised by financial 
+The independence of the Enron Board of Directors was compromised by financial 
 ties between the company and certain Board members. 
 The Board also failed to ensure the independence of the 
 company's auditor, allowing Andersen to provide internal 
-audit and consulting services while serving as Enron's out-
-side auditor . 
-4 
+audit and consulting services while serving as Enron's outside auditor. 
 
 # Subcommittee Recommendations
 
@@ -174,57 +136,57 @@ makes the following recommendations:
 ## Strengthening Oversight
 
 Directors of publicly 
-traded companies sho:uld take steps to: 
+traded companies should take steps to: 
+
 (a) prohibit accounting practices and transactions that 
 put the company at high risk of non-compliance with 
 generally accepted accounting principles and result in 
 misleading and inaccurate financial statements; 
+
 (b) prohibit conflict of interest arrangements that 
 aIlow company transactions with a business owned or 
 operated by senior company personnel; 
+
 (c) prohibit off-the-books activity used to make the 
-company's fii:tancial condition appear better than it is, 
+company's financial condition appear better than it is, 
 and require full public disclosure of all assets, liabilities 
-and activities that materially affect the company's finan-
-cial condition; 
-(d) prevent excessive executive . compensation, includ-
-ingby--
-(i) exercising ongoing oversight of compensation 
+and activities that materially affect the company's financial condition; 
+
+(d) prevent excessive executive compensation, including by
+
+>(i) exercising ongoing oversight of compensation 
 plans and payments; 
-(ii) barring the issuance of company-financed loans 
+
+>(ii) barring the issuance of company-financed loans 
 to directors and senior officers of the company; and 
-(iii) preventing stock-based compensation plans that 
-encourage company personnel to use improper ac-
-counting or other improper measures to increase the 
+
+>(iii) preventing stock-based compensation plans that 
+encourage company personnel to use improper accounting or other improper measures to increase the 
 company stock price for personal gain; and 
+
 (e) prohibit the company's outside auditor from also 
-providing internal auditing or consulting servij:es to the 
-company and from auditing its own work for .the com-
-pany. 
+providing internal auditing or consulting services to the 
+company and from auditing its own work for the company. 
 
 ## Strengthening Independence
 
 The Securities and 
-Exchange Commission and the self-regulatory organiza-
-tions, including the national stock exchanges, should: 
-(a) str.engthen requirements for director independence 
-at publicly traded companies, including by requiring a 
-majority of the outside directors to be free of material fi-
-nancial ties to the company other than through director 
-compensation; 
+Exchange Commission and the self-regulatory organizations, including the national stock exchanges, should:
+ 
+(a) strengthen requirements for director independence
+at publicly traded companies, including by requiring a
+majority of the outside directors to be free of material financial ties to the company other than through director compensation; 
+
 (b) strengthen requirements for Audit Committees at 
 publicly traded companies, including by requiring the 
 Audit Committee Chair to possess financial management 
 or accounting expertise, and by requiring a written 
 Audit Committee charter that obligates the Committee 
-to oversee the company's fmancial statements and ac-
-counting practices and to hire and fire the outside audi-
-tor; and 
-5 
+to oversee the company's fmancial statements and accounting practices and to hire and fire the outside auditor and 
+
 (c) strengthen requirements for auditor independence, 
 including by prohibiting the company's outside auditor 
-from simultaneously providing the company with inter-
-nal auditing or consulting services and from auditing its 
+from simultaneously providing the company with internal auditing or consulting services and from auditing its 
 own work for the company. 
 
 # Background
